@@ -1,0 +1,9 @@
+.idea
+target
+test-output
+src/test/resources/ExtentReport/*
+src/test/resources/screenshots
+latest-report.html
+logs/*.log
+Jahia-zap-report.html
+JahiaAutomationSuite.iml
